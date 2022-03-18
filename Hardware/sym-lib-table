@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name VS1053B)(type Legacy)(uri ${KIPRJMOD}/VS1053B.lib)(options "")(descr ""))
+  (lib (name TP4056)(type Legacy)(uri ${KIPRJMOD}/TP4056.lib)(options "")(descr ""))
+)
