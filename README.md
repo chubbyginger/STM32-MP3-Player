@@ -1,3 +1,5 @@
+# 见[ESP32-MP3-Player](https://github.com/yangshunhuai/ESP32-MP3-Player)
+
 # STM32-MP3-Player
 基于STM32的MP3音乐播放器
 
